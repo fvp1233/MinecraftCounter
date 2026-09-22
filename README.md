@@ -45,8 +45,8 @@ Al terminar, Vercel te da una URL pública (algo como
 
 ## Seguridad — léelo antes del evento
 
-El PIN de administrador (**2026**, editable en `index.html` buscando la
-línea `var PIN = "2026";`) es una protección **solo de interfaz**: evita que
+El PIN de administrador (**0026**, editable en `index.html` buscando la
+línea `var PIN = "0026";`) es una protección **solo de interfaz**: evita que
 alguien que abre el panel por curiosidad registre puntos por accidente. La
 base de datos en sí tiene las tablas abiertas a lectura/escritura para
 cualquiera que tenga la clave pública del sitio (igual que la clave, es
